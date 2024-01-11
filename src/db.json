@@ -1,0 +1,18 @@
+{
+  "AllUsers": [
+    {
+      "id": 1,
+      "firstname": "vijay",
+      "lastname": "janwale",
+      "email": "vijayjanwale@gmail.com",
+      "address": "pune"
+    },
+    {
+      "id": 2,
+      "firstname": "sagar",
+      "lastname": "takale",
+      "email": "sagar@gmail.com",
+      "address": "pune"
+    }
+  ]
+}
